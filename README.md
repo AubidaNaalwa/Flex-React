@@ -9,13 +9,6 @@ works with external api.
 
 ---
 
-## [Try it🍿](https://meflix.herokuapp.com)
-
-### to run on local host
-
-run command : `npm run-script dev`
-
----
 
 ### Tools and Libraries
 
